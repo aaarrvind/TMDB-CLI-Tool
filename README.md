@@ -92,6 +92,6 @@ token = strings.Trim(token, "\"")
 ```
 
 
-#### [Project URL](https://github.com/aaarrvind/TMDB-CLI-Tool)
+#### [Project URL](https://roadmap.sh/projects/tmdb-cli)
 
 
