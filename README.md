@@ -31,8 +31,8 @@ A command-line tool built with Go to fetch movie data from [The Movie Database (
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/tmdb-cli-app.git
-cd tmdb-cli-app
+git clone https://github.com/yourusername/TMDB-CLI-Tool
+cd TMDB-CLI-Tool
 ```
 
 ### 2. Create .env File
