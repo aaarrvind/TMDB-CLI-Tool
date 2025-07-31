@@ -26,7 +26,7 @@ A command-line tool built with Go to fetch movie data from [The Movie Database (
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
