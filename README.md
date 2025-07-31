@@ -10,6 +10,7 @@ A command-line tool built with Go to fetch movie data from [The Movie Database (
 
 - Fetches data from TMDB v3 API
 - Supports listing:
+  -  Playing Movies
   -  Popular Movies
   -  Top Rated Movies
   -  Upcoming Movies
